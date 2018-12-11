@@ -1,0 +1,215 @@
+/*
+ * Open Source Project made by Daksh (daksh7011.com)
+ * Do NOT remove this excerpt even if you fork this or use it by any means.
+ * This project is Licenced under GNU GENERAL PUBLIC LICENSE Version 3
+ *
+ */
+
+/*general styles*/
+
+.form-body {
+    background-color: #007AFF;
+}
+
+.form-body.gradient-bg {
+    background-repeat: repeat-x;
+    background-image: -webkit-linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
+    background-image: -o-linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
+}
+
+.website-logo {
+    display: inline-block;
+    top: 50px;
+    left: 50px;
+    right: initial;
+    bottom: initial;
+}
+
+.website-logo img {
+    width: 100px;
+}
+
+.website-logo .logo {
+    background-image: url("../images/logo-light.svg");
+}
+
+.website-logo .logo img {
+    width: 100px;
+}
+
+.other-links span {
+    color: #fff;
+}
+
+.other-links a {
+    color: #fff;
+}
+
+.other-links a i {
+    color: #fff;
+}
+
+.website-logo-inside img {
+    width: 100px;
+}
+
+.website-logo-inside .logo {
+    background-image: url("../images/logo-light.svg");
+}
+
+.website-logo-inside .logo img {
+    width: 100px;
+}
+
+.img-holder {
+    display: inline-block;
+    width: 550px;
+    background-color: #fff;
+}
+
+.img-holder:before {
+    background-image: url(../images/cloud-bg.svg);
+    background-size: 130%;
+}
+
+.img-holder .info-holder h3 {
+    color: #fff;
+}
+
+.img-holder .info-holder p {
+    color: #fff;
+}
+
+.img-holder .info-holder img {
+    max-width: 378px;
+}
+
+.img-holder .bg {
+    opacity: 0.23;
+    background-image: none;
+}
+
+.form-holder {
+    margin-left: 550px;
+}
+
+.form-holder .form-content ::-webkit-input-placeholder {
+    color: #000;
+}
+
+.form-holder .form-content :-moz-placeholder {
+    color: #000;
+}
+
+.form-holder .form-content ::-moz-placeholder {
+    color: #000;
+}
+
+.form-holder .form-content :-ms-input-placeholder {
+    color: #000;
+}
+
+.form-holder.custom-bg:before {
+    background-color: #F9EAE9;
+}
+
+.form-holder.custom-bg:after {
+    background-color: #F9EAE9;
+}
+
+.form-control ::-webkit-input-placeholder {
+    color: #000;
+}
+
+.form-control :-moz-placeholder {
+    color: #000;
+}
+
+.form-control ::-moz-placeholder {
+    color: #000;
+}
+
+.form-control :-ms-input-placeholder {
+    color: #000;
+}
+
+.form-content {
+    background-color: #007AFF;
+}
+
+.form-content .form-group {
+    color: #fff;
+}
+
+.form-content .form-items {
+    max-width: 440px;
+    text-align: left;
+}
+
+.form-content h3 {
+    color: #fff;
+    text-align: left;
+}
+
+.form-content h5 {
+    color: #fff;
+}
+
+.form-content p {
+    color: #fff;
+    text-align: left;
+}
+
+.form-content label {
+    color: #fff;
+    text-align: left;
+}
+
+.form-content .page-links a {
+    color: #fff;
+}
+
+.form-content .page-links a:after {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.form-content .page-links a.active:after {
+    background-color: #fff;
+}
+
+.form-content .page-links a:hover:after, .form-content .page-links a:focus:after {
+    background-color: #fff;
+}
+
+.form-content input, .form-content .dropdown-toggle.btn-default {
+    border: 0;
+    background-color: #fff;
+    -webkit-box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    color: #8D8D8D;
+}
+
+.form-content input:hover, .form-content input:focus, .form-content .dropdown-toggle.btn-default:hover, .form-content .dropdown-toggle.btn-default:focus {
+    border: 0;
+    background-color: #ebeff8;
+    color: #8D8D8D;
+    -webkit-box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+}
+
+.form-content textarea {
+    background-color: #fff;
+    -webkit-box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    border: 0;
+    color: #8D8D8D;
+}
+
+.form-content textarea:hover, .form-content textarea:focus {
+    border: 0;
+    background-color: #ebeff8;
+    color: #8D8D8D;
+    -webkit-box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+}
