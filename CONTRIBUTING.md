@@ -26,9 +26,12 @@ You should also build the docs yourself, add comments on changes you have dode a
 Once you have made all your changes, tests, make a pull request to move everything back into the main branch of the 
 repository. Be sure to reference the original issue in the pull request. 
 
+<hr>
+
+**Working on your first Pull Request?** You can learn how from this *free* 
+series [How to Contribute to an Open Source Project](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github) 
+
 **Good Luck!**
+)
 
-## Links
-[How to contribute](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
-
-Last updated on 12/11/2018: 13:20 by [Daksh](https://gitlab.com/daksh7011)
+Last updated on 12/11/2018: 16:20 by [Daksh](https://gitlab.com/daksh7011)
