@@ -12,11 +12,10 @@ exists already. The ticket you file in the issue tracker will be used to hash th
 
 # Code Style
 
-* Write in UTF-8 in PHP
+* Write in UTF-8 encoding
 * Always use tabs for indentation (don't use spaces)
 * Always try to limit line length to 80 characters
-* Class names should always be in PascalCase
-* Function names should always be camelCase
+* Function names should always be in camelCase
 * Look at the existing style and adhere accordingly
 
 # Forking the repository
