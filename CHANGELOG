@@ -1,3 +1,10 @@
+Check wiki for full changelog.
+
+v 1.0
+    -prepared core css for all upcoming template variations.
+    -completed first template with working countdown
+    -housekeeping in codebase.
+
 v 0.3
     -added first coming soon page and stylesheets and js files for it.
     -added image assets
@@ -9,5 +16,3 @@ v 0.2
 
 v 0.1
     -Initialized Project
-
-Check wiki for full changelog.
