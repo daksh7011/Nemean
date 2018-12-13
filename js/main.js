@@ -39,7 +39,7 @@ $(window).on("load", function() {
         $('.num', elMinutes).html(min);
         $('.num', elSeconds).html(sec);
 
-        setTimeout(countDown, 10000);
+        setTimeout(countDown, 1000);
     }
     countDown();
 });
