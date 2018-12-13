@@ -1,4 +1,13 @@
-v 0.1
-    -Initialized Project
+v 0.3
+    -added first coming soon page and stylesheets and js files for it.
+    -added image assets
+    -updated readme with layout fixes
+    -added index.html
+
 v 0.2
     -added bootstrap, paperjs and fontawesome webfonts
+
+v 0.1
+    -Initialized Project
+
+Check wiki for full changelog.
