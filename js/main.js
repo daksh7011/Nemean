@@ -41,4 +41,5 @@ $(window).on("load", function() {
 
         setTimeout(countDown, 10000);
     }
+    countDown();
 });
