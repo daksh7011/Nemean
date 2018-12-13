@@ -17,6 +17,9 @@
     <a href="http://makeapullrequest.com" target="_blank">
         <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
     </a>
+    <a href="https://gitlab.com/daksh7011/nemean/commits/master">
+        <img alt="pipeline status" src="https://gitlab.com/daksh7011/nemean/badges/master/pipeline.svg" />
+    </a>
     <a href="https://twitter.com/ProjectNemean" target="_blank">
             <img src="https://img.shields.io/twitter/follow/ProjectNemean.svg?label=Follow&style=social">
     </a>
@@ -62,7 +65,11 @@ Please take a look at the [contributing](CONTRIBUTING.md) guidelines if you're i
  has complex structure and has many animation based operations. [Nemean](https://gitlab.com/daksh7011/) is being 
  developed for those people who don't want anything fancy like [Metis](https://gitlab.com/daksh7011/metis) but 
  want a flat and minimalist taste.
-   
+ 
+# Wiki
+* [Home](https://gitlab.com/daksh7011/nemean/wikis/)
+* [How to setup](https://gitlab.com/daksh7011/nemean/wikis/how-to-setup) 
+* [Changelog](CHANGELOG) or [Full Changelog](https://gitlab.com/daksh7011/nemean/wikis/full-changelog)
 
 # License
 Nemean is licensed under the terms of the GNU GPLv3 (GPL Open Source license version 3) and is available for free.
