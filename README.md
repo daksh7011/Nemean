@@ -17,15 +17,32 @@
     <a href="http://makeapullrequest.com" target="_blank">
         <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
     </a>
+    <a href="https://twitter.com/ProjectNemean" target="_blank">
+            <img src="https://img.shields.io/twitter/follow/ProjectNemean.svg?label=Follow&style=social">
+    </a>
     <a href="https://saythanks.io/to/daksh7011" target="_blank">
         <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
     </a>
     <a href="https://www.paypal.me/daksh7011" target="_blank">
         <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
     </a>
+    <br>
+    <br>
+    <a href="https://daksh7011.com/nemean" target="_blank">
+        <img src="https://forthebadge.com/images/badges/check-it-out.svg">
+    </a>
 </div>
 
-[![check-it-out](https://forthebadge.com/images/badges/check-it-out.svg)](https://daksh7011.com/nemean)
+# Overview
+Nemean is set of coming soon templates designed to be flat and minimalistic. Nemean is lightweight, free of dependencies
+that can slow it down and fully responsive to any device and any viewport. I developed Nemean not to be too fancy while
+being simple and elegant in every aspect. I have designed and developed the structure which is easy to deploy with just 
+few modifications to original product.
+
+The idea of this project was raised from [Metis](https://gitlab.com/daksh7011/metis), Which is one of my library does 
+the same job but it has complex structure and has many animations that makes it fancy. I wanted to develop something 
+simple for people who loves simplicity without compromising the quality. If you are one of these people, Nemean is made
+for you.
 
 # Emailware
 
