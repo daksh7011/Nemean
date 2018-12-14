@@ -79,7 +79,7 @@ If not, see [GNU GPL-v3](https://www.gnu.org/licenses/gpl-3.0.html)
 # Links
 [Demo](https://gitlab.com/daksh7011/nemean)
 
-[Issue Tracker](https://gitlab.com/daksh7011/eagle/issues)
+[Issue Tracker](https://gitlab.com/daksh7011/nemean/issues)
 
 <hr>
 
