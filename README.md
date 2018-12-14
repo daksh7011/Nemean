@@ -31,7 +31,7 @@
     </a>
     <br>
     <br>
-    <a href="https://daksh7011.com/nemean" target="_blank">
+    <a href="https://daksh7011.gitlab.io/nemean" target="_blank">
         <img src="https://forthebadge.com/images/badges/check-it-out.svg">
     </a>
 </div>
@@ -77,7 +77,7 @@ You should have received a copy of the GNU General Public License along with thi
 If not, see [GNU GPL-v3](https://www.gnu.org/licenses/gpl-3.0.html)
 
 # Links
-[Demo](https://gitlab.com/daksh7011/nemean)
+[Demo](https://daksh7011.gitlab.io/nemean)
 
 [Issue Tracker](https://gitlab.com/daksh7011/nemean/issues)
 
