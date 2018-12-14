@@ -1,0 +1,99 @@
+/*
+ * Open Source Project made by Daksh (daksh7011.com)
+ * Do NOT remove this excerpt even if you fork this or use it by any means.
+ * This project is Licenced under GNU GENERAL PUBLIC LICENSE Version 3
+ *
+ */
+
+/*
+ * Open Source Project made by Daksh (daksh7011.com)
+ * Do NOT remove this excerpt even if you fork this or use it by any means.
+ * This project is Licenced under GNU GENERAL PUBLIC LICENSE Version 3
+ *
+ */
+
+/* -----------------------------------
+    1 - General Styles
+------------------------------------*/
+.form-body {
+    background-color: #0099F8;
+}
+
+.form-body.gradient-bg {
+    background-repeat: repeat-x;
+    background-image: -webkit-linear-gradient(20deg, #0099F8, #EE6EE9);
+    background-image: -o-linear-gradient(20deg, #0099F8, #EE6EE9);
+    background-image: linear-gradient(20deg, #0099F8, #EE6EE9);
+}
+
+.website-logo {
+    display: inline-block;
+    top: 50px;
+    left: 50px;
+    right: initial;
+    bottom: initial;
+}
+
+.website-logo img {
+    width: 100px;
+}
+
+.website-logo .logo {
+    background-image: url("../images/logo-dark.svg");
+}
+
+.website-logo .logo img {
+    width: 100px;
+}
+
+.other-links span {
+    color: #fff;
+}
+
+.other-links a {
+    color: #fff;
+}
+
+.other-links a i {
+    color: #fff;
+}
+
+.website-logo-inside img {
+    width: 100px;
+}
+
+.website-logo-inside .logo {
+    background-image: url("../images/logo-dark.svg");
+}
+
+.website-logo-inside .logo img {
+    width: 100px;
+}
+
+.img-holder {
+    display: inline-block;
+    width: 550px;
+    background-color: #fff;
+}
+
+.img-holder:before {
+    background-image: url(../images/cloud-bg.svg);
+    background-size: 130%;
+}
+
+.img-holder .info-holder h3 {
+    color: #fff;
+}
+
+.img-holder .info-holder p {
+    color: #fff;
+}
+
+.img-holder .info-holder img {
+    max-width: 378px;
+}
+
+.img-holder .bg {
+    opacity: 0.23;
+    background-image: none;
+}
