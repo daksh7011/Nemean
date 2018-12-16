@@ -167,16 +167,16 @@ h1, h2, h3, h4, h5, h6 {
     transition: all 0.3s ease;
 }
 
-.other-links a i[class*="fa-twitter"] {
-    background-color: #1da1f2;
+.other-links a i:hover[class*="fa-twitter"] {
+    color: #1da1f2;
 }
 
-.other-links a i[class*="fa-instagram"] {
-    background-color: #f56040;
+.other-links a i:hover[class*="fa-instagram"] {
+    color: #f56040;
 }
 
-.other-links a i[class*="fa-gitlab"] {
-    background-color: #fca326;
+.other-links a i:hover[class*="fa-gitlab"] {
+    color: #fca326;
 }
 
 .other-links a i:hover, .other-links a i:focus {
