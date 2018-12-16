@@ -62,9 +62,8 @@ Please take a look at the [contributing](CONTRIBUTING.md) guidelines if you're i
  mortal's swords and could cut through any armor. 
  
  * Why another coming soon template library? : My first coming soon template [Metis](https://gitlab.com/daksh7011/metis) 
- has complex structure and has many animation based operations. [Nemean](https://gitlab.com/daksh7011/) is being 
- developed for those people who don't want anything fancy like [Metis](https://gitlab.com/daksh7011/metis) but 
- want a flat and minimalist taste.
+ has complex structure and has many animation based operations. Nemean is being  developed for those people who don't 
+ want anything fancy like [Metis](https://gitlab.com/daksh7011/metis) but want a flat and minimalist taste.
  
 # Wiki
 * [Home](https://gitlab.com/daksh7011/nemean/wikis/)
