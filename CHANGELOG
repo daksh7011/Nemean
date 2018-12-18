@@ -1,5 +1,18 @@
 Check wiki for full changelog.
 
+v 1.2.2
+    -added animated gradient background
+
+v 1.2.1 - Hotfix
+    -added demo image
+
+V 1.2
+    -added second template
+    -housekeeping
+
+v 1.1
+    Added: preview for index, server rewrites, image for preview, styles for paragraph tag
+
 V 1.0.2 - hot-fix
     -fixed daksh7011/nemean#1
 

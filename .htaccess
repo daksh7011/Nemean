@@ -1,0 +1,7 @@
+options -multiviews
+options -indexes
+
+<IfModule mod_security.c>
+   SecFilterEngine off
+   SecFilterScanPOST off
+</IfModule>

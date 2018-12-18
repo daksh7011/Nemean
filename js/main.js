@@ -5,19 +5,19 @@
  *
  */
 
-"use strict"
+"use strict";
 $(window).on("load", function() {
     function countDown() {
-        var today = new Date();
-        var comingsoonDate = new Date("December 31,2018 23:59:58");
-        var currentTime = today.getTime();
-        var countdownTime = comingsoonDate.getTime();
-        var actualTime = countdownTime - currentTime;
+        let today = new Date();
+        let comingsoonDate = new Date("December 31,2018 23:59:58");
+        let currentTime = today.getTime();
+        let countdownTime = comingsoonDate.getTime();
+        let actualTime = countdownTime - currentTime;
 
-        var sec = Math.floor(actualTime / 1000);
-        var min = Math.floor(sec / 60);
-        var hrs = Math.floor(min / 60);
-        var days = Math.floor(hrs / 24);
+        let sec = Math.floor(actualTime / 1000);
+        let min = Math.floor(sec / 60);
+        let hrs = Math.floor(min / 60);
+        let days = Math.floor(hrs / 24);
 
         hrs %= 24;
         min %= 60;
@@ -28,11 +28,11 @@ $(window).on("load", function() {
         min = (min < 10) ? "0" + min : min;
         sec = (sec < 10) ? "0" + sec : sec;
 
-        var elTimeCounter = $('.time-counter');
-        var elDays = $('.days', elTimeCounter);
-        var elHours = $('.hours', elTimeCounter);
-        var elMinutes = $('.minutes', elTimeCounter);
-        var elSeconds = $('.seconds', elTimeCounter);
+        let elTimeCounter = $('.time-counter');
+        let elDays = $('.days', elTimeCounter);
+        let elHours = $('.hours', elTimeCounter);
+        let elMinutes = $('.minutes', elTimeCounter);
+        let elSeconds = $('.seconds', elTimeCounter);
 
         $('.num', elDays).html(days);
         $('.num', elHours).html(hrs);
@@ -41,5 +41,22 @@ $(window).on("load", function() {
 
         setTimeout(countDown, 1000);
     }
+    function gradient() {
+        let granimInstance = new Granim({
+            element: '#granim',
+            direction: 'diagonal',
+            isPausedWhenNotInView: true,
+            states : {
+                "default-state": {
+                    gradients: [
+                        ['#FCCF31', '#F55555'],
+                        ['#97ABFF', '#123597'],
+                        ['#0E5CAD', '#79F1A4']
+                    ]
+                }
+            }
+        });
+    }
     countDown();
+    gradient();
 });

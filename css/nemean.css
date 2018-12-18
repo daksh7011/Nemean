@@ -21,12 +21,36 @@ html, body {
     height: 100%;
 }
 
+p {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: inherit;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+p.bold {
+    font-weight: bold;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Lato Black', sans-serif;
     font-weight: 700;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
     -moz-osx-font-smoothing: grayscale;
+}
+
+#granim {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
 }
 
 /*form styles*/
@@ -143,16 +167,16 @@ h1, h2, h3, h4, h5, h6 {
     transition: all 0.3s ease;
 }
 
-.other-links a i[class*="fa-twitter"] {
-    background-color: #1da1f2;
+.other-links a i:hover[class*="fa-twitter"] {
+    color: #1da1f2;
 }
 
-.other-links a i[class*="fa-instagram"] {
-    background-color: #f56040;
+.other-links a i:hover[class*="fa-instagram"] {
+    color: #f56040;
 }
 
-.other-links a i[class*="fa-gitlab"] {
-    background-color: #fca326;
+.other-links a i:hover[class*="fa-gitlab"] {
+    color: #fca326;
 }
 
 .other-links a i:hover, .other-links a i:focus {
