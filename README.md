@@ -12,7 +12,7 @@
 </div>
 <div align="center">
     <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank">
-        <img src="https://img.shields.io/badge/License-GPLv3-blue.svg">
+        <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg">
     </a>
     <a href="http://makeapullrequest.com" target="_blank">
         <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
@@ -71,9 +71,10 @@ Please take a look at the [contributing](CONTRIBUTING.md) guidelines if you're i
 * [Changelog](CHANGELOG) or [Full Changelog](https://gitlab.com/daksh7011/nemean/wikis/full-changelog)
 
 # License
-Nemean is licensed under the terms of the GNU GPLv3 (GPL Open Source license version 3) and is available for free.
-You should have received a copy of the GNU General Public License along with this program. 
-If not, see [GNU GPL-v3](https://www.gnu.org/licenses/gpl-3.0.html)
+
+[MIT License](LICENSE) Copyright (c) 2018 Daksh
+
+Nemean is provided under terms of MIT license.
 
 # Links
 [Demo](https://daksh7011.gitlab.io/nemean)
