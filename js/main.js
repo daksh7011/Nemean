@@ -44,7 +44,7 @@ $(window).on("load", function() {
     function gradient() {
         let granimInstance = new Granim({
             element: '#granim',
-            direction: 'diagonal',
+            direction: 'radial',
             isPausedWhenNotInView: true,
             states : {
                 "default-state": {
