@@ -68,7 +68,7 @@ Please take a look at the [contributing](CONTRIBUTING.md) guidelines if you're i
 # Wiki
 * [Home](https://gitlab.com/daksh7011/nemean/wikis/)
 * [How to setup](https://gitlab.com/daksh7011/nemean/wikis/how-to-setup) 
-* [Changelog](CHANGELOG) or [Full Changelog](https://gitlab.com/daksh7011/nemean/wikis/full-changelog)
+* [Changelog](CHANGELOG.md) or [Full Changelog](https://gitlab.com/daksh7011/nemean/wikis/full-changelog)
 
 # License
 
