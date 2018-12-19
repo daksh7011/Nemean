@@ -1,5 +1,8 @@
-Check wiki for full changelog.
 
+v 1.5
+    -removed granim js
+    -added fifth template, image assets and stylesheets for it.
+    
 v 1.4
     -added forth template
     -updated license snippets where necessary
