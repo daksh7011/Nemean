@@ -184,6 +184,10 @@ h1, h2, h3, h4, h5, h6 {
     opacity: 0.8;
 }
 
+.other-links.index a i {
+    color:#000;
+}
+
 .other-links.no-bg-icon a {
     margin-right: 0;
 }
