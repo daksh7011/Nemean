@@ -1,8 +1,7 @@
 /*
  * Open Source Project made by Daksh (daksh7011.com)
- * Do NOT remove this excerpt even if you fork this or use it by any means.
- * This project is Licenced under GNU GENERAL PUBLIC LICENSE Version 3
- *
+ * Please do not remove it. It helps me.
+ * This project is Licenced under MIT.
  */
 
 "use strict";
@@ -41,22 +40,5 @@ $(window).on("load", function() {
 
         setTimeout(countDown, 1000);
     }
-    function gradient() {
-        let granimInstance = new Granim({
-            element: '#granim',
-            direction: 'diagonal',
-            isPausedWhenNotInView: true,
-            states : {
-                "default-state": {
-                    gradients: [
-                        ['#FCCF31', '#F55555'],
-                        ['#97ABFF', '#123597'],
-                        ['#0E5CAD', '#79F1A4']
-                    ]
-                }
-            }
-        });
-    }
     countDown();
-    gradient();
 });
