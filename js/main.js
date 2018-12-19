@@ -40,22 +40,5 @@ $(window).on("load", function() {
 
         setTimeout(countDown, 1000);
     }
-    function gradient() {
-        let granimInstance = new Granim({
-            element: '#granim',
-            direction: 'radial',
-            isPausedWhenNotInView: true,
-            states : {
-                "default-state": {
-                    gradients: [
-                        ['#FCCF31', '#F55555'],
-                        ['#97ABFF', '#123597'],
-                        ['#0E5CAD', '#79F1A4']
-                    ]
-                }
-            }
-        });
-    }
     countDown();
-    gradient();
 });
