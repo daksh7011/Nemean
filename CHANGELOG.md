@@ -1,4 +1,8 @@
 
+v 1.6.1
+
+    -added sixth template
+
 v 1.6
 
     -updated contribution guide
