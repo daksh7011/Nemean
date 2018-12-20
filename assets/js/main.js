@@ -8,7 +8,7 @@
 $(window).on("load", function() {
     function countDown() {
         let today = new Date();
-        let comingsoonDate = new Date("December 31,2018 23:59:58");
+        let comingsoonDate = new Date("August 21,2019 00:00:00");
         let currentTime = today.getTime();
         let countdownTime = comingsoonDate.getTime();
         let actualTime = countdownTime - currentTime;
