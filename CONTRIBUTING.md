@@ -5,12 +5,14 @@
 3. Make sure that your commit messages clearly describe the changes.
 4. Send a pull request.
 
-# Filing an issue
+If you haven't done anything like this before please refer the [guide](#Contribution Guide) at bottom of this page.
+
+## Filing an issue
 Use the issue tracker to start the discussion. It is possible that someone else is 
 already working on your idea, your approach is not quite right, or that the functionality 
 exists already. The ticket you file in the issue tracker will be used to hash that all out.
 
-# Code Style
+## Code Style
 
 * Write in UTF-8 encoding
 * Always use tabs for indentation (don't use spaces)
@@ -18,24 +20,25 @@ exists already. The ticket you file in the issue tracker will be used to hash th
 * Function names should always be in camelCase
 * Look at the existing style and adhere accordingly
 
-# Forking the repository
+## Forking the repository
 Be sure to do relevant tests on layouts, styles and scripts before making the pull request. 
 You should also build the docs yourself, add comments on changes you have dode and make sure they're readable.
 
-# Making Pull Request
+## Making Pull Request
 Once you have made all your changes, tests, make a pull request to move everything back into the main branch of the 
 repository. Be sure to reference the original issue in the pull request. 
 
-## Contributing for the first time?
+## Contribution Guide
 Well, if you are contributing for the first time, follow these steps to get started with contribution.
 
 **Note**: Your fork is the "origin" and the repository you forked from is the "upstream".
 
+* Open an issue on Issue Tracker to specify the feature/fix you are going to develop.
 * Login to your gitlab account and fork the repository.
 
 * Now you have cloned the repository under your account: gitlab.com/<your_username>/nemean
 
-Let's assume that you cloned already your fork to your computer with a command like this:
+Let's assume that you already cloned your fork to your computer with a command like this:
 
 `git clone https://gitlab.com/your_name/nemean.git`
 
@@ -60,7 +63,7 @@ Let's assume that you cloned already your fork to your computer with a command l
     `git merge upstream/master`
 1. Resolve merge conflicts if any and commit your merge:
     
-    `git commit -am "Merged from upstream`
+    `git commit -am "Merged from upstream"`
 1. Push the changes to your fork:
 
     `git push`
