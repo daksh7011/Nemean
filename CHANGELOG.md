@@ -1,4 +1,9 @@
 
+v 1.6
+
+    -updated contribution guide
+    -updated directory structure of project
+
 v 1.5
 
     -removed granim js
