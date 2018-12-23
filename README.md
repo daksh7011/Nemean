@@ -12,7 +12,7 @@
 </div>
 <div align="center">
     <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank">
-        <img src="https://img.shields.io/badge/License-GPLv3-blue.svg">
+        <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg">
     </a>
     <a href="http://makeapullrequest.com" target="_blank">
         <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
@@ -31,7 +31,7 @@
     </a>
     <br>
     <br>
-    <a href="https://daksh7011.com/nemean" target="_blank">
+    <a href="https://daksh7011.gitlab.io/nemean" target="_blank">
         <img src="https://forthebadge.com/images/badges/check-it-out.svg">
     </a>
 </div>
@@ -62,22 +62,22 @@ Please take a look at the [contributing](CONTRIBUTING.md) guidelines if you're i
  mortal's swords and could cut through any armor. 
  
  * Why another coming soon template library? : My first coming soon template [Metis](https://gitlab.com/daksh7011/metis) 
- has complex structure and has many animation based operations. [Nemean](https://gitlab.com/daksh7011/) is being 
- developed for those people who don't want anything fancy like [Metis](https://gitlab.com/daksh7011/metis) but 
- want a flat and minimalist taste.
+ has complex structure and has many animation based operations. Nemean is being  developed for those people who don't 
+ want anything fancy like [Metis](https://gitlab.com/daksh7011/metis) but want a flat and minimalist taste.
  
 # Wiki
 * [Home](https://gitlab.com/daksh7011/nemean/wikis/)
 * [How to setup](https://gitlab.com/daksh7011/nemean/wikis/how-to-setup) 
-* [Changelog](CHANGELOG) or [Full Changelog](https://gitlab.com/daksh7011/nemean/wikis/full-changelog)
+* [Changelog](CHANGELOG.md) or [Full Changelog](https://gitlab.com/daksh7011/nemean/wikis/full-changelog)
 
 # License
-Nemean is licensed under the terms of the GNU GPLv3 (GPL Open Source license version 3) and is available for free.
-You should have received a copy of the GNU General Public License along with this program. 
-If not, see [GNU GPL-v3](https://www.gnu.org/licenses/gpl-3.0.html)
+
+[MIT License](LICENSE) Copyright (c) 2018 Daksh
+
+Nemean is provided under terms of MIT license.
 
 # Links
-[Demo](https://gitlab.com/daksh7011/nemean)
+[Demo](https://daksh7011.gitlab.io/nemean)
 
 [Issue Tracker](https://gitlab.com/daksh7011/nemean/issues)
 

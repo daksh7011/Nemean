@@ -1,21 +1,21 @@
 /*
  * Open Source Project made by Daksh (daksh7011.com)
- * Do NOT remove this excerpt even if you fork this or use it by any means.
- * This project is Licenced under GNU GENERAL PUBLIC LICENSE Version 3
- *
+ * Please do not remove it. It helps me.
+ * This project is Licenced under MIT.
  */
 
-/*general styles*/
 
+
+/*general styles*/
 .form-body {
-    background-color: #007AFF;
+    background-color: #0099F8;
 }
 
 .form-body.gradient-bg {
     background-repeat: repeat-x;
-    background-image: -webkit-linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
-    background-image: -o-linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
-    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
+    background-image: -webkit-linear-gradient(45deg, #F97794, #623AA2);
+    background-image: -o-linear-gradient(45deg, #F97794, #623AA2);
+    background-image: linear-gradient(45deg, #F97794, #623AA2);
 }
 
 .website-logo {
@@ -135,7 +135,7 @@
 }
 
 .form-content {
-    background-color: #007AFF;
+    background-color: transparent;
 }
 
 .form-content .form-group {
@@ -224,7 +224,7 @@
 
 .form-content input[type="checkbox"]:checked + label:before, .form-content input[type="radio"]:checked + label:before {
     background: #fff;
-    border: 0px solid #fff;
+    border: 0 solid #fff;
 }
 
 .form-content input[type="checkbox"]:not(:checked) + label:before, .form-content input[type="radio"]:not(:checked) + label:before {
@@ -253,7 +253,7 @@
 }
 
 .form-content .form-button .ibtn {
-    background-color: #57D38C;
+    background-color: #5915B4;
     color: #fff;
     -webkit-box-shadow: 0 0 0 rgba(0, 0, 0, 0);
     box-shadow: 0 0 0 rgba(0, 0, 0, 0);
@@ -262,7 +262,7 @@
 .form-content .form-button .ibtn:hover, .form-content .form-button .ibtn:focus {
     -webkit-box-shadow: 0 5px 6px rgba(0, 0, 0, 0);
     box-shadow: 0 5px 6px rgba(0, 0, 0, 0);
-    background-color: #43ce7e;
+    background-color: #4e129d;
 }
 
 .form-content .form-button a {
@@ -271,13 +271,13 @@
 
 .form-content .btn.btn-primary {
     color: #fff;
-    background-color: #57D38C;
+    background-color: #5915B4;
     -webkit-box-shadow: 0 0 0 rgba(0, 0, 0, 0);
     box-shadow: 0 0 0 rgba(0, 0, 0, 0);
 }
 
 .form-content .btn.btn-primary:hover, .form-content .btn.btn-primary:focus {
-    background-color: #4bd084;
+    background-color: #5213a6;
     -webkit-box-shadow: 0 5px 6px rgba(0, 0, 0, 0);
     box-shadow: 0 5px 6px rgba(0, 0, 0, 0);
 }
@@ -482,7 +482,7 @@
 }
 
 .form-body.without-side .form-content .form-button .ibtn {
-    background-color: #007AFF;
+    background-color: #5915B4;
     color: #fff;
     -webkit-box-shadow: 0 0 0 rgba(0, 0, 0, 0.16);
     box-shadow: 0 0 0 rgba(0, 0, 0, 0.16);
@@ -491,11 +491,10 @@
 .form-body.without-side .form-content .form-button .ibtn:hover, .form-body.without-side .form-content .form-button .ibtn:focus {
     -webkit-box-shadow: 0 5px 6px rgba(0, 0, 0, 0.16);
     box-shadow: 0 5px 6px rgba(0, 0, 0, 0.16);
-    background-color: #006ee6;
+    background-color: #4e129d;
 }
 
-/*responsive definition*/
-
+/*responsive definitions*/
 @media (max-width: 992px) {
     .img-holder {
         display: none;
